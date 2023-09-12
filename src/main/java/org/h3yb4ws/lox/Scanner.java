@@ -1,11 +1,11 @@
-package org.h3yb4ws;
+package org.h3yb4ws.lox;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import static org.h3yb4ws.TokenType.*;
+import static org.h3yb4ws.lox.TokenType.*;
 
 public class Scanner {
     private final String source;

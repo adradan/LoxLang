@@ -1,4 +1,4 @@
-package org.h3yb4ws;
+package org.h3yb4ws.lox;
 
 public class Token {
     final TokenType type;

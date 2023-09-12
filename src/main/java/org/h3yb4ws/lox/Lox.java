@@ -1,4 +1,4 @@
-package org.h3yb4ws;
+package org.h3yb4ws.lox;
 
 import java.io.BufferedReader;
 import java.io.IOException;
